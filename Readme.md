@@ -1,6 +1,6 @@
 ### Hi there, I'm Evgeni Bershadsky
 
-## I'm a Husband, Developer, and Huge Music Fan!!
+## I'm a Husband, Developer, and a Huge Music Fan!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute to Open Source projects 
@@ -30,6 +30,10 @@
 
 <br />
 <br />
+
+---
+
+ <img align="left" alt="EvgeniBR's GitHub Stats" src="https://github-readme-stats.EvgeniBR.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [whatsapp]: https://wa.me/+972547558475
 [linkedin]: https://www.linkedin.com/in/evgeni-bershadsky-99234a85/
