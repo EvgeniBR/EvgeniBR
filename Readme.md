@@ -33,7 +33,7 @@
 
 ---
 
- <img align="left" alt="EvgeniBR's GitHub Stats" src="https://github-readme-stats.EvgeniBR.vercel.app/api?username=EvgeniBR&show_icons=true&hide_border=true" />
+ <img align="left" alt="EvgeniBR's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=EvgeniBR&show_icons=true&hide_border=true" />
 
 [whatsapp]: https://wa.me/+972547558475
 [linkedin]: https://www.linkedin.com/in/evgeni-bershadsky-99234a85/
