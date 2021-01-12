@@ -3,7 +3,7 @@
 ## I'm a Husband, Developer, and a Huge Music Fan!!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute to Open Source projects 
+- 🥅 2021 Goals: Contribute to Open Source projects 
 - ⚡ Fun fact: I love to game and play guitar / trumpet
 
 ### Connect with me:
